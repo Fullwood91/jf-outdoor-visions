@@ -13,7 +13,7 @@
     </header>
 
     <section class="gallery">
-        <a href="https://www.picfair.com/jfoutdoorvisions" target="_blank">Visit my Picfair store</a>
+        <a href="https://jfoutdoorvisions.picfair.com" target="_blank">Visit my Picfair store</a>
 
         <!-- Replace these with your own photos -->
         <img src="photos/photo1.jpg" alt="Photo 1">
