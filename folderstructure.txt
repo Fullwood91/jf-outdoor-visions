@@ -1,0 +1,8 @@
+jf-outdoor-visions/
+│
+├─ index.html
+├─ style.css
+└─ photos/  <-- your "Outdoor Visions photos" go here
+      ├─ photo1.jpg
+      ├─ photo2.jpg
+      └─ photo3.jpg
