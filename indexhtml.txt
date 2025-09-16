@@ -13,28 +13,30 @@
     </header>
 
     <section class="gallery">
-        <a href="https://jfoutdoorvisions.picfair.com" target="_blank">Visit my Picfair store</a>
+        <ahref="https://jfoutdoorvisions.picfair.com" target="_blank" rel="noopener noreferrer">
+            Visit my Picfair store
+        </a>
 
-        <!-- Replace these with your own photos -->
+        <!-- Your photos -->
         <img src="photos/photo1.jpg" alt="Photo 1">
         <img src="photos/photo2.jpg" alt="Photo 2">
         <img src="photos/photo3.jpg" alt="Photo 3">
-        <img src="photos/photo4.jpg" alt="Photo photo4">
-        <img src="photos/photo5.jpg" alt="Photo photo5">
-        <img src="photos/photo6.jpg" alt="Photo photo6">
-        <img src="photos/photo7.jpg" alt="Photo photo7">
-        <img src="photos/photo8.jpg" alt="Photo photo8">
-        <img src="photos/photo9.jpg" alt="Photo photo9">
-        <img src="photos/photo10.jpg" alt="Photo photo10">
-        <img src="photos/photo11.jpg" alt="Photo photo11">
-        <img src="photos/photo12.jpg" alt="Photo photo12">
-        <img src="photos/photo13.jpg" alt="Photo photo13">
-        <img src="photos/photo14.jpg" alt="Photo photo14">
-        <img src="photos/photo15.jpg" alt="Photo photo15">
-        <img src="photos/photo16.jpg" alt="Photo photo16">
-        <img src="photos/photo17.jpg" alt="Photo photo17">
-        <img src="photos/photo18.jpg" alt="Photo photo18">
-        <img src="photos/photo19.jpg" alt="Photo photo19">
+        <img src="photos/photo4.jpg" alt="Photo 4">
+        <img src="photos/photo5.jpg" alt="Photo 5">
+        <img src="photos/photo6.jpg" alt="Photo 6">
+        <img src="photos/photo7.jpg" alt="Photo 7">
+        <img src="photos/photo8.jpg" alt="Photo 8">
+        <img src="photos/photo9.jpg" alt="Photo 9">
+        <img src="photos/photo10.jpg" alt="Photo 10">
+        <img src="photos/photo11.jpg" alt="Photo 11">
+        <img src="photos/photo12.jpg" alt="Photo 12">
+        <img src="photos/photo13.jpg" alt="Photo 13">
+        <img src="photos/photo14.jpg" alt="Photo 14">
+        <img src="photos/photo15.jpg" alt="Photo 15">
+        <img src="photos/photo16.jpg" alt="Photo 16">
+        <img src="photos/photo17.jpg" alt="Photo 17">
+        <img src="photos/photo18.jpg" alt="Photo 18">
+        <img src="photos/photo19.jpg" alt="Photo 19">
     </section>
 </body>
 </html>
